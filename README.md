@@ -1,6 +1,5 @@
 Aloha cowboy! 
-💻 Estudando Análise e Desenvolvimento de Sistemas
-📃 Certificado em Comunicação Digital
+💻 Estudando Análise e Desenvolvimento de Sistemas 
 
 <div align="center">
   <a href="https://github.com/danielletrrr">
