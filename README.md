@@ -1,4 +1,4 @@
- ## Aloha cowboy! 
+ ## aloha cowboy! 
 
 <div align="center">
   <a href="https://github.com/danielletrrr">
