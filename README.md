@@ -1,12 +1,5 @@
  ## aloha cowboy! 
 
-<div align="center">
-  <a href="https://github.com/danielletrrr">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=danielletrrr&show_icons=true&theme=aura&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielletrrr&layout=compact&langs_count=7&theme=aura"/>
-</div>
-
- ##
  
 <div> 
   <a href="https://discord.gg/6rPtbuKW" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
